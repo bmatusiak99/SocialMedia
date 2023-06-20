@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eureka/Eureka.iml" filepath="$PROJECT_DIR$/Eureka/Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/Gateway.iml" filepath="$PROJECT_DIR$/Gateway/Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Profile/Profile.iml" filepath="$PROJECT_DIR$/Profile/Profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project.iml" filepath="$PROJECT_DIR$/.idea/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Registration/Registration.iml" filepath="$PROJECT_DIR$/Registration/Registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserEdit/UserEdit.iml" filepath="$PROJECT_DIR$/UserEdit/UserEdit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserMessage/UserMessage.iml" filepath="$PROJECT_DIR$/UserMessage/UserMessage.iml" />
+    </modules>
+  </component>
+</project>

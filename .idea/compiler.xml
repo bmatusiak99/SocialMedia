@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="UserEdit" />
+        <module name="Gateway" />
+        <module name="Registration" />
+        <module name="UserMessage" />
+        <module name="Login" />
+        <module name="Main" />
+        <module name="Eureka" />
+        <module name="Profile" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Eureka" target="11" />
+      <module name="Gateway" target="11" />
+      <module name="Login" target="11" />
+      <module name="Main" target="11" />
+      <module name="Profile" target="11" />
+      <module name="Registration" target="11" />
+      <module name="UserEdit" target="11" />
+      <module name="UserMessage" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Eureka" options="-parameters" />
+      <module name="Gateway" options="-parameters" />
+      <module name="Login" options="-parameters" />
+      <module name="Main" options="-parameters" />
+      <module name="Profile" options="-parameters" />
+      <module name="Registration" options="-parameters" />
+      <module name="UserEdit" options="-parameters" />
+      <module name="UserMessage" options="-parameters" />
+    </option>
+  </component>
+</project>
